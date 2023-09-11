@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/9c/a8/eb9ca8b755820c26fe277ae2959db6c7.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/1070739126292328468/1150712370222612520/1.png)](https://rishavchanda.io)
 <h1 align="center">Noriel Achero</h1>
 <h3 align="center">A 3rd-year Computer Science student at New Era University, Quezon City, Philippines</h3>
 
