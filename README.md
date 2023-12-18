@@ -23,7 +23,7 @@
 
 
 
-<h3 align="center">Computer Science student from New Era University, Quezon City, Philippines</h3>
+<h3 align="center">Computer Science Student from New Era University, Quezon City, Philippines</h3>
 
 
 <h1 align="left">Languages and Tools</h1>
