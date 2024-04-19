@@ -1,6 +1,5 @@
-[![MasterHead](https://media.discordapp.net/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?width=1025&height=267)](https://rishavchanda.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?ex=662f5e31&is=661ce931&hm=a80ba76a646cd2a39a704c52d575530018d4d66f2605ecaf98f4f79e5e35019f&)](https://rishavchanda.io)
 
-Lol the image broke
 <h1 align="center">Noriel Achero</h1>
 
 <p align="center">
