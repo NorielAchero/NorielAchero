@@ -37,7 +37,7 @@
 
 | Program/Course | School | School Year |
 | :-------------: | :-----: | :-----------: |
-| Bachelor of Science Computer Science | New Era University | 2021 - Present (2024 Expected Graduate) |
+| Bachelor of Science Computer Science | New Era University | 2021 - Present |
 | Information Communication Technology (SHS) | New Era University IS | 2019 - 2021 |
 
 
