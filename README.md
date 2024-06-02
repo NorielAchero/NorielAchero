@@ -61,4 +61,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorielAchero&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 ![](https://komarev.com/ghpvc/?username=NorielAchero&style=flat-square)
 
-I'll clean my repos after this sem lol
