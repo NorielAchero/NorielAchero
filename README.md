@@ -46,7 +46,7 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://drive.google.com/file/d/1F5F2tIuM9cOc-B1uE_zGpBxnEoL0mNgP/view?usp=sharing">PWNEU CTF</a>  (Top 2 Overall CTF Player) | NEU CICS | May 15, 2024 | 
+| <a href="https://drive.google.com/file/d/1cp2OEgVOorfWBYWH4hiFlPA_ymZK2ED1/view?usp=sharing">PWNEU CTF</a>  (Top 2 Overall CTF Player) | NEU CICS | May 15, 2024 | 
 | <a href="https://www.credly.com/badges/de80c41c-7089-4c2a-a375-774a1953485a/public_url">Introduction to Data Science</a> | Cisco | October 18, 2023 | 
 | <a href="https://www.credly.com/badges/c227f7f0-98c2-40bc-a783-b5416727077c/public_url">Data Analytics Essentials</a> | Cisco | October 8, 2023|
 | <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" >Business Analytics with Excel</a> | Simplilearn Corporation | September 07, 2023 |
