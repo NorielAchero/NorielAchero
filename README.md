@@ -79,9 +79,25 @@
 
 </div>
 
+### Design Patterns
 
+Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code (refactoring guru).
 
+Here are my implementations of some design patterns and SOLID Principles:
+- Factory Pattern
+- Command Pattern 
+- Adapter Pattern
+- Facade Pattern
+- Observer Pattern
+- Singleton Pattern
+- Decorator Pattern
+- Strategy Pattern
+- State Pattern
+- Visitor Pattern
 
+See pinned Github Repository to explore the Design Patterns and SOLID Principle (All Patterns are stored in one repo).
+
+https://github.com/NorielAchero/DesignPatterns
 
 
 <h1 align="left">Github Stats</h1>
