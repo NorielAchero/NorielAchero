@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?ex=6690ed31&is=668f9bb1&hm=15d367e0802f57cc556c0aabcdb934bce3249a4bd9992fd18ceca19f1fb4ac00&)](https://rishavchanda.io)
 
 <h1 align="center">Noriel Achero</h1>
-!!!!!!!!!!!!!!!!!!!!! STILL FIXING SOME BUGS !!!!!!!!!!!!!!!
+
 <p align="center">
     <a href="https://www.linkedin.com/in/nrachero/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
