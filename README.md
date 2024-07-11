@@ -2,6 +2,8 @@
 
 <h1 align="center">Noriel Achero</h1>
 
+
+!!!!!!!!!!!!!!!!!!!!!! STILL FIXING SOME BUGS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <p align="center">
     <a href="https://www.linkedin.com/in/nrachero/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
