@@ -56,6 +56,21 @@
 
 ## Tech Achievements 
 ### Power BI Reports
+| ![2024-07-1123-15-02-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/d24e462f-9f0c-495f-836d-280f7ad2baf3) |
+|-------------|
+| <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiOGQ5NmNkMWYtYzMxMC00ZjFhLThmZmUtNGQ2NjE0MzVhNGExIiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">Soda Report For Year 2022</a> </div> |
+
+| ![2024-07-1123-27-11-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/b1a70de8-f820-47c9-9b53-b5db50926c71) |
+|-------------|
+| <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiNDJlOWM2YzctMzBkYy00YTliLTg3YTEtZGY4NWNmOTBmODI0IiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">SNACK REPORT USING DAX</a> </div> |
+
+| ![2024-07-1123-31-35-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/da249487-df2c-491b-87c2-af2bb0ae999c)|
+|-------------|
+| <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDkzNTFhMDItY2M5ZC00ZjU5LWI0ZTctZjNiMzA3MTcyYmMyIiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">PROELECT 4 COURSE REPORT</a> </div> |
+
+
+
+
 
 
 
