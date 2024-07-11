@@ -34,15 +34,19 @@
 
 ## Education
 
+<div align="center">
 
 | Program/Course | School | School Year |
 | :-------------: | :-----: | :-----------: |
 | Bachelor of Science Computer Science | New Era University | 2021 - Present |
 | Information Communication Technology (SHS) | New Era University IS | 2019 - 2021 |
 
+</div>
 
 
 ## Certifications
+
+<div align="center">
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
@@ -54,8 +58,13 @@
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a>  |  Oracle University | November 23, 2022 |
 | <a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de">SQL and Relational Databases 101</a> | Cognitive Class | November 2, 2022 |
 
+</div>
+
 ## Tech Achievements 
 ### Power BI Reports
+
+<div align="center">
+
 | ![2024-07-1123-15-02-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/d24e462f-9f0c-495f-836d-280f7ad2baf3) |
 |-------------|
 | <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiOGQ5NmNkMWYtYzMxMC00ZjFhLThmZmUtNGQ2NjE0MzVhNGExIiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">Soda Report For Year 2022</a> </div> |
@@ -68,6 +77,7 @@
 |-------------|
 | <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDkzNTFhMDItY2M5ZC00ZjU5LWI0ZTctZjNiMzA3MTcyYmMyIiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">PROELECT 4 COURSE REPORT</a> </div> |
 
+</div>
 
 
 
