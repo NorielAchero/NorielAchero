@@ -49,6 +49,8 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1VRgWSNg_H-fiatgxR_BJ7v9RX_h_kf3p/view?usp=sharing">Python for Data Science</a> | Great Learning Academy | August 8, 2024 | 
+| <a href="https://www.credly.com/badges/9e297514-6538-4c44-91c2-c7cb2f57c4d6/public_url">AI Fundamentals with IBM SkillsBuild</a> | Cisco | July 15, 2024 | 
 | <a href="https://drive.google.com/file/d/1cp2OEgVOorfWBYWH4hiFlPA_ymZK2ED1/view?usp=sharing">PWNEU CTF</a>  (Top 2 Overall CTF Player) | NEU CICS | May 15, 2024 | 
 | <a href="https://www.credly.com/badges/de80c41c-7089-4c2a-a375-774a1953485a/public_url">Introduction to Data Science</a> | Cisco | October 18, 2023 | 
 | <a href="https://www.credly.com/badges/c227f7f0-98c2-40bc-a783-b5416727077c/public_url">Data Analytics Essentials</a> | Cisco | October 8, 2023|
