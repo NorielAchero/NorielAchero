@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?ex=66b485b1&is=66b33431&hm=ac0dbf9ac0e928ef9f32c606d0a7ef73b7668769926adf0bf04430e22290a808&)](https://rishavchanda.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?ex=66cd9231&is=66cc40b1&hm=a063b4d12d0fa50ad42bb9a64149d22ce6f438a389a38a7749dda547e2f83574&)](https://rishavchanda.io)
 
 <h1 align="center">Noriel Achero</h1>
 
