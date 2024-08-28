@@ -49,7 +49,8 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://drive.google.com/file/d/1jTT3DZsKZDd3iPWvPs-6saeYiW4-E18c/view?usp=drive_link">Face Recognition in OpenCV</a> | Great Learning Academy | August 21, 2024 | 
+| <a href="https://drive.google.com/file/d/1PJtBUlksjClxRJh9NWBExDZp0ont758C/view?usp=drive_link">TensorFlow Python</a> | Great Learning Academy | August 28, 2024 | 
+| <a href="https://drive.google.com/file/d/1vRFYjFbCGq4UAV4GPZ8sVu9j4nENr97I/view?usp=drive_link">Face Recognition in OpenCV</a> | Great Learning Academy | August 21, 2024 | 
 | <a href="https://drive.google.com/file/d/1VRgWSNg_H-fiatgxR_BJ7v9RX_h_kf3p/view?usp=sharing">Python for Data Science</a> | Great Learning Academy | August 8, 2024 | 
 | <a href="https://www.credly.com/badges/9e297514-6538-4c44-91c2-c7cb2f57c4d6/public_url">AI Fundamentals with IBM SkillsBuild</a> | Cisco | July 15, 2024 | 
 | <a href="https://drive.google.com/file/d/1cp2OEgVOorfWBYWH4hiFlPA_ymZK2ED1/view?usp=sharing">PWNEU CTF</a>  (Top 2 Overall CTF Player) | NEU CICS | May 15, 2024 | 
