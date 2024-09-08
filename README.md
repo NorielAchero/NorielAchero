@@ -49,6 +49,7 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://drive.google.com/file/d/1IQM_QB2szzZf1sQKzLqR4tP8-yGMl9yi/view?usp=drive_linkk">Project Management</a> | Great Learning Academy | September 9, 2024 | 
 | <a href="https://drive.google.com/file/d/1PJtBUlksjClxRJh9NWBExDZp0ont758C/view?usp=drive_link">TensorFlow Python</a> | Great Learning Academy | August 28, 2024 | 
 | <a href="https://drive.google.com/file/d/1vRFYjFbCGq4UAV4GPZ8sVu9j4nENr97I/view?usp=drive_link">Face Recognition in OpenCV</a> | Great Learning Academy | August 21, 2024 | 
 | <a href="https://drive.google.com/file/d/1VRgWSNg_H-fiatgxR_BJ7v9RX_h_kf3p/view?usp=sharing">Python for Data Science</a> | Great Learning Academy | August 8, 2024 | 
