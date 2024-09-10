@@ -43,7 +43,7 @@
 </div>
 
 
-## 📒 Certifications
+## 📒 Certifications | Courses
 
 <div align="center">
 
