@@ -49,6 +49,7 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.mygreatlearning.com/certificate/LEOZPPBU">Google Analytics</a> | Great Learning Academy | September 14, 2024 | 
 | <a href="https://www.mygreatlearning.com/certificate/QZUDJWMM">Project Management</a> | Great Learning Academy | September 9, 2024 | 
 | <a href="https://www.mygreatlearning.com/certificate/NSGNKUQM">TensorFlow Python</a> | Great Learning Academy | August 28, 2024 | 
 | <a href="https://www.mygreatlearning.com/certificate/RFCGOVGX">Face Recognition in OpenCV</a> | Great Learning Academy | August 21, 2024 | 
