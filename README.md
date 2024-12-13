@@ -49,6 +49,8 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.skillfront.com/Badges/32074788000017">Foundations Of Business And Entrepreneurship™</a> | SkillFront | December 2024 | 
+| <a href="https://www.skillfront.com/Badges/23939690648753">ISO/IEC 27001 Information Security Associate™</a> | SkillFront | December 2024 | 
 | <a href="https://badgr.com/public/assertions/tTPsjmJITUm7K1FSI6ZWEg?identity__email=acheronorielr@gmail.com">Postman API Fundamentals Student Expert</a> | Postman | December 2024 | 
 | <a href="https://www.skillfront.com/Badges/04768315236013">Certified Associate In Scrum Fundamentals™ (CASF™)</a> | SkillFront | December 2024 | 
 | <a href="https://drive.google.com/file/d/1rZDToWKF0AfhA9DZXNHI8AEh5bgLLVUL/view">Project Management Essentials Certified</a> | Management and Strategy Institute | December 2024 | 
