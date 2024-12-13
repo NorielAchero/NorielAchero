@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fmnl9-4.fna.fbcdn.net/v/t1.15752-9/456281795_387283071056825_6593408050524095799_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeE_WTkFS034jQCkMIxkyAdx5dxxkZz5hSLl3HGRnPmFIlCYsxy1gO-OAa_ZhCAv5gJIzzWQ8Xr716kJbexeH8ky&_nc_ohc=GgBIKLIsq_4Q7kNvgElTKdB&_nc_ht=scontent.fmnl9-4.fna&oh=03_Q7cD1QFLPixgb-qO03NUzZzFqY9XOo3hxtPt-GAufePhlQTVHQ&oe=66F8FB91)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF9_TH8kJ4rOA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725376001988?e=1739404800&v=beta&t=x91s-X2ufpQVkf7lIszh0nbqhWkGJW0hb9jKDtdJ9xM)](https://rishavchanda.io)
 
 <h1 align="center">Noriel Achero</h1>
 
@@ -49,20 +49,21 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://www.mygreatlearning.com/certificate/LEOZPPBU">Google Analytics</a> | Great Learning Academy | September 14, 2024 | 
-| <a href="https://www.mygreatlearning.com/certificate/QZUDJWMM">Project Management</a> | Great Learning Academy | September 9, 2024 | 
-| <a href="https://www.mygreatlearning.com/certificate/NSGNKUQM">TensorFlow Python</a> | Great Learning Academy | August 28, 2024 | 
-| <a href="https://www.mygreatlearning.com/certificate/RFCGOVGX">Face Recognition in OpenCV</a> | Great Learning Academy | August 21, 2024 | 
-| <a href="https://www.mygreatlearning.com/certificate/BLPTQGDG">Python for Data Science</a> | Great Learning Academy | August 8, 2024 | 
-| <a href="https://www.credly.com/badges/9e297514-6538-4c44-91c2-c7cb2f57c4d6/public_url">AI Fundamentals with IBM SkillsBuild</a> | Cisco | July 15, 2024 | 
-| <a href="https://drive.google.com/file/d/1cp2OEgVOorfWBYWH4hiFlPA_ymZK2ED1/view?usp=sharing">PWNEU CTF</a>  (Top 2 Overall CTF Player) | NEU CICS | May 15, 2024 | 
-| <a href="https://www.kaggle.com/learn/certification/noriela/intro-to-programming">Introduction to Programming</a> | Kaggle | November 9, 2023 | 
-| <a href="https://www.credly.com/badges/de80c41c-7089-4c2a-a375-774a1953485a/public_url">Introduction to Data Science</a> | Cisco | October 18, 2023 | 
-| <a href="https://www.credly.com/badges/c227f7f0-98c2-40bc-a783-b5416727077c/public_url">Data Analytics Essentials</a> | Cisco | October 8, 2023|
-| <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" >Business Analytics with Excel</a> | Simplilearn Corporation | September 07, 2023 |
-| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek">Oracle Cloud Data Management Foundations Associate</a> |  Oracle University | December 9, 2022 |
-| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a>  |  Oracle University | November 23, 2022 |
-| <a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de">SQL and Relational Databases 101</a> | Cognitive Class | November 2, 2022 |
+| <a href="https://accounts.educate360.com/login?SAMLRequest=fZPLrtowEIb3lfoOKHvIBQjUAioKvSBRQJB20U01sSdgKbFTj9PDefs6IQiKWryJ5Pnn8z%2BXTAiKvGTzyp7UHn9VSPbtm4475yJXxJro1KuMYhpIElNQIDHL2WH%2Bdc2iXsBKo63mOvce856nAREaK7Vq81bLqbfdfFxvP682P0MOKYcgHIYiHoajdBz04wiz8btRGkWRiKN4MOIhz9rc72jIkaaeA7urFkhU4UqRBWVdJIgG3TDqhv0kGLLBgPXHP9rspatZKrAN4WRtScz3gXNdKUs9FBUHi%2F046HFd%2BLk%2ByqvlXVv5B6mEVMfn9aYXEbEvSbLr7raHpKXMr41YaEVVgeaA5rfk%2BG2%2FvtkRQKdUgxGPfkptLOR%2B5RgXb73yVL4n0t7sgp%2FUo2BNM8ysxjnaA2MtUwPm1T84pTORyaNfoAUBFmraxL9H3FFLtnFlrpY7nUv%2BegnU55M2Bdj%2FtyPshc2NFN2skbJKUYlcZhKFd%2BPM81y%2FLAw6q1PPmgq9jv%2F3%2B%2B3Gomj213m3eLadhS5KMJLqeeIZuL324taPe%2F0id7u4x2z2dF0547XOXe%2Fc50UbUY8fuXs8MeD8u0G0nfonvPXtPzHuNNf4%2Ff84%2BwM%3D&RelayState=https%3A%2F%2Fdashboard.educate360.com%2Flogin">Six Sigma White Belt</a> | Educate 360 | December 2024 | 
+| <a href="https://www.mygreatlearning.com/certificate/LEOZPPBU">Google Analytics</a> | Great Learning Academy | September 2024 | 
+| <a href="https://www.mygreatlearning.com/certificate/QZUDJWMM">Project Management</a> | Great Learning Academy | September 2024 | 
+| <a href="https://www.mygreatlearning.com/certificate/NSGNKUQM">TensorFlow Python</a> | Great Learning Academy | August 2024 | 
+| <a href="https://www.mygreatlearning.com/certificate/RFCGOVGX">Face Recognition in OpenCV</a> | Great Learning Academy | August 2024 | 
+| <a href="https://www.mygreatlearning.com/certificate/BLPTQGDG">Python for Data Science</a> | Great Learning Academy | August 2024 | 
+| <a href="https://www.credly.com/badges/9e297514-6538-4c44-91c2-c7cb2f57c4d6/public_url">AI Fundamentals with IBM SkillsBuild</a> | Cisco | July 2024 | 
+| <a href="https://drive.google.com/file/d/1cp2OEgVOorfWBYWH4hiFlPA_ymZK2ED1/view?usp=sharing">PWNEU CTF</a>  (Top 2 Overall CTF Player) | NEU CICS | May 2024 | 
+| <a href="https://www.kaggle.com/learn/certification/noriela/intro-to-programming">Introduction to Programming</a> | Kaggle | November 2023 | 
+| <a href="https://www.credly.com/badges/de80c41c-7089-4c2a-a375-774a1953485a/public_url">Introduction to Data Science</a> | Cisco | October 2023 | 
+| <a href="https://www.credly.com/badges/c227f7f0-98c2-40bc-a783-b5416727077c/public_url">Data Analytics Essentials</a> | Cisco | October  2023|
+| <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" >Business Analytics with Excel</a> | Simplilearn Corporation | September 2023 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek">Oracle Cloud Data Management Foundations Associate</a> |  Oracle University | December 2022 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a>  |  Oracle University | November 2022 |
+| <a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de">SQL and Relational Databases 101</a> | Cognitive Class | November 2022 |
 
 </div>
 
