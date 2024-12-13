@@ -49,6 +49,10 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://badgr.com/public/assertions/tTPsjmJITUm7K1FSI6ZWEg?identity__email=acheronorielr@gmail.com">Postman API Fundamentals Student Expert</a> | Postman | December 2024 | 
+| <a href="https://www.skillfront.com/Badges/04768315236013">Certified Associate In Scrum Fundamentals™ (CASF™)</a> | SkillFront | December 2024 | 
+| <a href="https://drive.google.com/file/d/1rZDToWKF0AfhA9DZXNHI8AEh5bgLLVUL/view">Project Management Essentials Certified</a> | Management and Strategy Institute | December 2024 | 
+| <a href="https://www.credly.com/badges/04873525-51c2-4876-b6bf-96e531cb70da/linked_in_profile">Scrum Foundation Professional Certification - SFPC™</a> | Certiprof | December 2024 | 
 | <a href="https://accounts.educate360.com/login?SAMLRequest=fZPLrtowEIb3lfoOKHvIBQjUAioKvSBRQJB20U01sSdgKbFTj9PDefs6IQiKWryJ5Pnn8z%2BXTAiKvGTzyp7UHn9VSPbtm4475yJXxJro1KuMYhpIElNQIDHL2WH%2Bdc2iXsBKo63mOvce856nAREaK7Vq81bLqbfdfFxvP682P0MOKYcgHIYiHoajdBz04wiz8btRGkWRiKN4MOIhz9rc72jIkaaeA7urFkhU4UqRBWVdJIgG3TDqhv0kGLLBgPXHP9rspatZKrAN4WRtScz3gXNdKUs9FBUHi%2F046HFd%2BLk%2ByqvlXVv5B6mEVMfn9aYXEbEvSbLr7raHpKXMr41YaEVVgeaA5rfk%2BG2%2FvtkRQKdUgxGPfkptLOR%2B5RgXb73yVL4n0t7sgp%2FUo2BNM8ysxjnaA2MtUwPm1T84pTORyaNfoAUBFmraxL9H3FFLtnFlrpY7nUv%2BegnU55M2Bdj%2FtyPshc2NFN2skbJKUYlcZhKFd%2BPM81y%2FLAw6q1PPmgq9jv%2F3%2B%2B3Gomj213m3eLadhS5KMJLqeeIZuL324taPe%2F0id7u4x2z2dF0547XOXe%2Fc50UbUY8fuXs8MeD8u0G0nfonvPXtPzHuNNf4%2Ff84%2BwM%3D&RelayState=https%3A%2F%2Fdashboard.educate360.com%2Flogin">Six Sigma White Belt</a> | Educate 360 | December 2024 | 
 | <a href="https://www.mygreatlearning.com/certificate/LEOZPPBU">Google Analytics</a> | Great Learning Academy | September 2024 | 
 | <a href="https://www.mygreatlearning.com/certificate/QZUDJWMM">Project Management</a> | Great Learning Academy | September 2024 | 
