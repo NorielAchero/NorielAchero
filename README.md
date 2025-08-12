@@ -24,7 +24,7 @@
 
 
 
-<h3 align="center">Computer Science Student from New Era University, Quezon City, Philippines</h3>
+<h3 align="center">Computer Science Graduate from New Era University, Quezon City, Philippines</h3>
 
 
 
@@ -37,7 +37,7 @@
 
 | Program/Course | School | School Year |
 | :-------------: | :-----: | :-----------: |
-| Bachelor of Science Computer Science | New Era University | 2021 - Present |
+| Bachelor of Science Computer Science | New Era University | 2021 - 2025 |
 | Information Communication Technology (SHS) | New Era University IS | 2019 - 2021 |
 
 </div>
