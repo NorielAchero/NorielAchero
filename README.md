@@ -1,4 +1,7 @@
-[![MasterHead](https://media.discordapp.net/attachments/1070739126292328468/1402212040877277327/NORIEL_ACHERO.png?ex=6893173a&is=6891c5ba&hm=88a81a1395619c22529ea00abcd99edd8712b4f2e3414951bcbe96d13c1413cf&=&format=webp&quality=lossless)](https://rishavchanda.io)
+
+
+<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/98276063-c703-44c3-8871-72fd1617f9de" />
+
 
 <h1 align="center">Noriel Achero</h1>
 
