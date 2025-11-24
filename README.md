@@ -1,6 +1,7 @@
 
 
-<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/98276063-c703-44c3-8871-72fd1617f9de" />
+
+![New Project](https://github.com/user-attachments/assets/896d57ce-bbb1-4de7-b257-aad7975d2a5f)
 
 
 <h1 align="center">Noriel Achero</h1>
