@@ -81,45 +81,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## 💹 Tech Achievements 
-### Power BI Reports
-
-<div align="center">
-
-| ![2024-07-1123-15-02-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/d24e462f-9f0c-495f-836d-280f7ad2baf3) |
-|-------------|
-| <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiOGQ5NmNkMWYtYzMxMC00ZjFhLThmZmUtNGQ2NjE0MzVhNGExIiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">Soda Report For Year 2022</a> </div> |
-
-| ![2024-07-1123-27-11-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/b1a70de8-f820-47c9-9b53-b5db50926c71) |
-|-------------|
-| <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiNDJlOWM2YzctMzBkYy00YTliLTg3YTEtZGY4NWNmOTBmODI0IiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">SNACK REPORT USING DAX</a> </div> |
-
-| ![2024-07-1123-31-35-ezgif com-video-to-gif-converter](https://github.com/NorielAchero/NorielAchero/assets/142378544/da249487-df2c-491b-87c2-af2bb0ae999c)|
-|-------------|
-| <div align="center">  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDkzNTFhMDItY2M5ZC00ZjU5LWI0ZTctZjNiMzA3MTcyYmMyIiwidCI6IjIyM2YyMDAyLTc2NjktNDQyZC04MTUyLTdjMGU0ZTE3YTc1YSIsImMiOjEwfQ%3D%3D">PROELECT 4 COURSE REPORT</a> </div> |
-
-</div>
-
-### Design Patterns
-
-Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code (refactoring guru).
-
-Here are my implementations of some design patterns and SOLID Principles:
-- Factory Pattern
-- Command Pattern 
-- Adapter Pattern
-- Facade Pattern
-- Observer Pattern
-- Singleton Pattern
-- Decorator Pattern
-- Strategy Pattern
-- State Pattern
-- Visitor Pattern
-
-See pinned Github Repository to explore the Design Patterns and SOLID Principle (All Patterns are stored in one repo).
-
-https://github.com/NorielAchero/DesignPatterns
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NorielAchero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
